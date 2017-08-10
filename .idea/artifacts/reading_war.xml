@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="reading:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="reading-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="reading:war exploded" />
+    </root>
+  </artifact>
+</component>

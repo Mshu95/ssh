@@ -1,9 +1,9 @@
-package org.yaoyan.dao;
+package org.dao;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
-import org.yaoyan.entity.User;
-import org.yaoyan.base.BaseDaoImpl;
+import org.entity.User;
+import org.base.BaseDaoImpl;
 
 @Transactional
 @Repository

@@ -1,4 +1,4 @@
-package org.yaoyan.base;
+package org.base;
 
 import org.hibernate.Query;
 import org.hibernate.SQLQuery;

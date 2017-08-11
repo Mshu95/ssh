@@ -1,9 +1,9 @@
-package org.yaoyan.service;
+package org.service;
 
+import org.dao.UserDaoI;
+import org.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.yaoyan.dao.UserDaoI;
-import org.yaoyan.entity.User;
 
 @Service
 public class MainService implements MainServiceImpl{

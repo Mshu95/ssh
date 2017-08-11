@@ -1,4 +1,4 @@
-package org.yaoyan.entity;
+package org.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

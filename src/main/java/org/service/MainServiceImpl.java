@@ -1,4 +1,4 @@
-package org.yaoyan.service;
+package org.service;
 
 public interface MainServiceImpl {
    void save();

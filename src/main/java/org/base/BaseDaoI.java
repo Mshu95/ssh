@@ -1,4 +1,4 @@
-package org.yaoyan.base;
+package org.base;
 
 import java.io.Serializable;
 import java.util.Date;

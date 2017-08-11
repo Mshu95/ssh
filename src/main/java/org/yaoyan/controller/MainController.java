@@ -14,7 +14,7 @@ public class MainController {
     MainService mainService;
 
     @ResponseBody
-    @RequestMapping(value="test", method = RequestMethod.GET)
+    @RequestMapping()
     public String test(){
 //        实际返回的是views/test.jsp ,spring-mvc.xml中配置过前后缀
         mainService.save();

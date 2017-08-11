@@ -24,7 +24,7 @@
   <packaging>war</packaging>
 
   <name>ssh</name>
-  <groupId>org.yaoyan.ssh</groupId>
+  <groupId>org.ssh</groupId>
   <artifactId>ssh</artifactId>
   <version>1.0-SNAPSHOT</version>
 
